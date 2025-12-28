@@ -1,6 +1,5 @@
-# ESP32-TFT Thermal Camera
-
 ![ESP32-TFT Thermal Camera](readme-images/title-image.png)
+# ESP32-TFT Thermal Camera
 
 A real-time thermal imaging camera built with an **ESP32-TFT 3.5” HMI display (Elecrow / CrowPanel series)** and an **MLX90640 infrared thermal sensor**.  
 This project focuses on **efficient rendering**, **clear thermal analysis**, and **professional-grade UI concepts**, while running entirely on an ESP32.
